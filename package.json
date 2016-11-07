@@ -45,7 +45,8 @@
   },
   "dependencies": {
     "flowdock": "^0.9.0",
-    "parent-require": "^1.0.0"
+    "parent-require": "^1.0.0",
+    "webbybot": "^3.2.4"
   },
   "devDependencies": {
     "coffee-script": ">=1.2.0"
